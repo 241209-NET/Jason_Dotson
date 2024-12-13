@@ -1,0 +1,15 @@
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/bin/Debug/net8.0/MiniProject
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/bin/Debug/net8.0/MiniProject.deps.json
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/bin/Debug/net8.0/MiniProject.runtimeconfig.json
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/bin/Debug/net8.0/MiniProject.dll
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/bin/Debug/net8.0/MiniProject.pdb
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.AssemblyInfoInputs.cache
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.AssemblyInfo.cs
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.csproj.CoreCompileInputs.cache
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.sourcelink.json
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.dll
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/refint/MiniProject.dll
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.pdb
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/MiniProject.genruntimeconfig.cache
+/Users/jasondotson/Desktop/revature/jason_dotson/trainer-code/Week1/MiniProject/obj/Debug/net8.0/ref/MiniProject.dll
