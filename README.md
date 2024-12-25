@@ -17,4 +17,5 @@ This application allows a user to select a gym listed in a database and register
 - SQL Server
   
 ## Database Schema
-<img width="1024" alt="project1-schema" src="https://github.com/user-attachments/assets/452fb760-f838-488b-a1e2-6870c6dfc4d1" />
+
+<img width="795" alt="project1-schema" src="https://github.com/user-attachments/assets/73e44b92-e7a4-483a-b46d-59051b090565" />
