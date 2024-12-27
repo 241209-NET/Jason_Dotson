@@ -3,6 +3,7 @@ This application allows a user to select a gym listed in a database and register
 
 ## Features
 - User can register as a member at a gym. (CREATE)
+- User can retrieve a list of gyms or one gym by id (READ)
 - Member can retrieve his/her profile. (READ)
 - Member can edit his/her profile. (UPDATE)
 - Admins can retrieve a list of members. (READ)
