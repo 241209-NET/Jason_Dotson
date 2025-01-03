@@ -1,4 +1,6 @@
 using Gym.API.Data;
+using Gym.API.Repository;
+using Gym.API.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,9 +16,14 @@ builder.Services.AddDbContext<GymContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("gym_membership")));
 
 // Add service dependencies
-
+builder.Services.AddScoped<IGymService, GymService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Add repository dependencies 
+builder.Services.AddScoped<IGymRepository, GymRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+
 
 // Add controllers
 builder.Services.AddControllers()

@@ -167,3 +167,6 @@
 /Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/obj/Debug/net8.0/Gym.API.pdb
 /Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/obj/Debug/net8.0/Gym.API.genruntimeconfig.cache
 /Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/obj/Debug/net8.0/ref/Gym.API.dll
+/Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/obj/Debug/net8.0/Gym.API.sourcelink.json
+/Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/bin/Debug/net8.0/Castle.Core.dll
+/Users/jasondotson/Desktop/revature/jason_dotson/project1/Gym.API/bin/Debug/net8.0/Moq.dll
